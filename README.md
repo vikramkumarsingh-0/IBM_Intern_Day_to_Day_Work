@@ -3,8 +3,6 @@
 
 Welcome to the AI-ML Internship Daily Tasks Repository. This repository serves as a comprehensive record of my accomplishments throughout the AI-ML internship with IBM. It gathered all tasks, their corresponding code, and detailed explanations in a well-structured manner.
 
-![AI - ML](AI-ML.png)
-![IBM](ibm.jpg)
 
 ## Table of Contents
 
@@ -51,8 +49,8 @@ This repository is organized by daily task. Each task has its own dedicated dire
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/mohitmaurya2023/AI-ML-Intern-Daily-Task.git
-   cd AI-ML-Intern-Daily-Task
+   git clone https://github.com/vikramkumarsingh-0/IBM_Intern_Day_to_Work.git
+   cd IBM_Intern_Day_to_Work
 
 2. **Install dependencies and start the application:**
 
@@ -81,7 +79,7 @@ If you find a bug or have a feature request, please create an issue on GitHub.
 Thank you for your contributions!
 
 ## Contact
-If you have any questions or suggestions, feel free to reach out to me at mohitsscs1980@gmail.com
+If you have any questions or suggestions, feel free to reach out to me at vicky310singh@gmail.com
 
 **Let's Start Coding!**
 
