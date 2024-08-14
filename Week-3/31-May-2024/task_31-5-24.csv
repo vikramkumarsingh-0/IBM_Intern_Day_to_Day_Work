@@ -1,0 +1,7 @@
+Customer_email,Product,Price,Quantity_Sold,Discount (%),Rating
+mohit@gmail.com,Keyboard,$ 400,30,10,2.3
+rohit@gmail.com,Mouse,$ 200,120,20,3.4
+sohan@gmail.com,Monitor,$ 2200,50,30,4.3
+mohan@gmail.com,MousePad,,150,5,3.5
+rohan@gmail.com,Speaker,$ 500,40,25,5
+mansi@gmail.com,Mike,$ 250,90,15,1.5

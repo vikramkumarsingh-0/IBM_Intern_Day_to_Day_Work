@@ -1,0 +1,54 @@
+Good Morning Interns,
+1. Simple Calculations 
+
+Scenario: You have a dataset with product prices and quantities sold. 
+
+Goal: Calculate the total revenue generated for each product by multiplying price by quantity. 
+
+ 
+
+ 
+
+ 2. Extracting Information from Strings 
+
+Scenario: You have a list of email addresses. 
+
+Goal: Extract the username (part before the "@" symbol) from each email address. 
+
+ 
+
+ 3. Simple Conditional Statements 
+
+Scenario: You have a list of product prices and a discount percentage. 
+
+Goal: Write code to calculate the final price for each product after applying the discount. 
+
+ 
+
+ 4. Sorting Data 
+
+Scenario: You have a DataFrame containing product information with prices and ratings. 
+
+Goal: Sort the DataFrame by: 
+
+Price (ascending order - cheapest to most expensive). 
+
+Rating (descending order - highest to lowest rating). 
+
+ 
+
+ 5. Data Cleaning and Transformation 
+
+Scenario: 
+
+You have a dataset on customer purchases with the following issues: 
+
+Missing values in the "price" column. 
+
+Inconsistent data types (prices might be strings with a currency symbol). 
+
+Inconsistent product names (typos or capitalization). 
+
+Goal: 
+
+Clean and transform the data using pandas functions.
